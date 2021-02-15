@@ -1,2 +1,5 @@
-server:
-  port: 8763
+data:
+  env: config-eureka-prod
+  user:
+    username: eureka-client-user
+    password: 11111111
